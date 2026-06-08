@@ -7,3 +7,7 @@
 ![Dark Mode](<img width="1920" height="1029" alt="Screenshot 2026-06-08 133727" src="https://github.com/user-attachments/assets/33b6a840-ccdb-4504-83d8-d7b8c8990e0f" />)
 
 ![Tasks](<img width="1920" height="1029" alt="Screenshot 2026-06-08 133757" src="https://github.com/user-attachments/assets/89e762bf-69db-4a70-af92-7f5ac0a49d02" />)
+
+Demo Video:
+## Project Demo
+https://drive.google.com/file/d/1IRkjDSjmRarw3wqmwXFr1Gnwlxwb57mp/view?usp=drive_link
